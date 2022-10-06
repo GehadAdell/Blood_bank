@@ -1,0 +1,17 @@
+﻿  Donor.cpp
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Donor.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Donor.cpp(136,18): warning C4018: '<': signed/unsigned mismatch
+  Rrecipient.cpp
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.cpp(207,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.cpp(239,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.cpp(361,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.cpp(373,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.cpp(388,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\Dell\source\repos\blood_bank\blood_bank\Rrecipient.cpp(355): warning C4715: 'Rrecipient::searchAvailabilityOfBloodType': not all control paths return a value
+  blood_bank.vcxproj -> C:\Users\Dell\source\repos\blood_bank\Debug\blood_bank.exe
